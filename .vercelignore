@@ -1,0 +1,16 @@
+node_modules
+.next
+.env
+.env.*
+app
+lib
+*.ts
+*.tsx
+tsconfig.json
+next.config.ts
+next-env.d.ts
+postcss.config.mjs
+package.json
+package-lock.json
+.git
+agent-transcripts
